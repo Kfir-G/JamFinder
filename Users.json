@@ -1,0 +1,16 @@
+{
+    "Users":{
+        "User1" : ["israeli pop", "rock", "rock","pop","pop","rock","pop","pop"],
+        "User2" : ["pop", "afropop", "israeli pop"],
+        "User3" : ["latin metal", "rock", "alternative pop"],
+        "User4" : ["pop", "classic rock", "israeli pop"],
+        "User5" : ["pop", "rock", "israeli pop"],
+        "User6" : ["latin funk", "classic rock", "israeli pop"],
+        "User7" : ["pop", "rock", "israeli pop"],
+        "User8" : ["latin tech house", "rock", "art pop"],
+        "User9" : ["latin funk", "rock", "israeli pop"],
+        "User10" : ["pop", "christian rock", "austrian pop"]
+    }
+}
+
+
